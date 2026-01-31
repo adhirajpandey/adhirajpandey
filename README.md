@@ -82,17 +82,12 @@ software engineer specializing in web development and automating the boring stuf
 </tr>
 </table>
 
-## 📈 GitHub Stats
+## 📈 GitHub Timeline and Stats
 
 <div>
-  <img height="180em" src="https://streak-stats.demolab.com?user=adhirajpandey&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhirajpandey&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img width="3840" height="1822" alt="gh-timeline" src="https://github.com/user-attachments/assets/ce389719-63a7-4558-a719-2279f22c4ba7" />
+  <img width="2560" height="1046" alt="gh-stats" src="https://github.com/user-attachments/assets/a49e3aa8-6b57-401e-a71a-205625eced07" />
 </div>
-</br>
-<p>
-  <img src="https://komarev.com/ghpvc/?username=adhirajpandey&style=flat&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/stars/adhirajpandey?affiliations=OWNER&style=flat&color=blue" alt="Total Stars" />
-</p>
 
 ## ✍️ Blogs  
 
